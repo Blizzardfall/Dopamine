@@ -38,10 +38,10 @@
   <Text Key="Key_Plus">+</Text>
   <Text Key="Key_Minus">-</Text>
   <Text Key="Key_Ctrl">Ctrl</Text>
-  <Text Key="Increase_Volume_By_5_Percent">볼륨 5% 높이기</Text>
-  <Text Key="Decrease_Volume_By_5_Percent">볼륨 5% 낮추기</Text>
-  <Text Key="Increase_Volume_By_1_Percent">볼륨 1% 높이기</Text>
-  <Text Key="Decrease_Volume_By_1_Percent">볼륨 1% 낮추기</Text>
+  <Text Key="Increase_Volume_By_5_Percent">볼륨 5 % 높이기</Text>
+  <Text Key="Decrease_Volume_By_5_Percent">볼륨 5 % 낮추기</Text>
+  <Text Key="Increase_Volume_By_1_Percent">볼륨 1 % 높이기</Text>
+  <Text Key="Decrease_Volume_By_1_Percent">볼륨 1 % 낮추기</Text>
   <Text Key="Media_Keys">미디어 키</Text>
   <Text Key="Supported_Media_Keys">다음 미디어 키를 지원합니다: 재생, 일시 중지, 이전, 다음.</Text>
   <Text Key="Latency">지연율</Text>
@@ -407,6 +407,6 @@
   <Text Key="Loop_When_Shuffle">무작위 재생 중 마지막 노래가 끝나면 재생 목록 처음으로 돌아가기</Text>
   <Text Key="Show_Song_Covers">노래 커버 보이기</Text>
   <Text Key="Hide_Song_Covers">노래 커버 숨기기</Text>
-  <Text Key="Check_For_Updates_At_Startup">Check for updates at startup</Text>
-  <Text Key="Check_For_Updates_Periodically">Check for updates periodically</Text>
+  <Text Key="Check_For_Updates_At_Startup">시작할 때 업데이트 확인</Text>
+  <Text Key="Check_For_Updates_Periodically">정기적으로 업데이트 확인</Text>
 </Language>
