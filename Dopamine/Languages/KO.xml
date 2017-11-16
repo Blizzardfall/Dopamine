@@ -38,10 +38,10 @@
   <Text Key="Key_Plus">+</Text>
   <Text Key="Key_Minus">-</Text>
   <Text Key="Key_Ctrl">Ctrl</Text>
-  <Text Key="Increase_Volume_By_5_Percent">볼륨 5% 높이기</Text>
-  <Text Key="Decrease_Volume_By_5_Percent">볼륨 5% 낮추기</Text>
-  <Text Key="Increase_Volume_By_1_Percent">볼륨 1% 높이기</Text>
-  <Text Key="Decrease_Volume_By_1_Percent">볼륨 1% 낮추기</Text>
+  <Text Key="Increase_Volume_By_5_Percent">볼륨 5 % 높이기</Text>
+  <Text Key="Decrease_Volume_By_5_Percent">볼륨 5 % 낮추기</Text>
+  <Text Key="Increase_Volume_By_1_Percent">볼륨 1 % 높이기</Text>
+  <Text Key="Decrease_Volume_By_1_Percent">볼륨 1 % 낮추기</Text>
   <Text Key="Media_Keys">미디어 키</Text>
   <Text Key="Supported_Media_Keys">다음 미디어 키를 지원합니다: 재생, 일시 중지, 이전, 다음.</Text>
   <Text Key="Latency">지연율</Text>
@@ -408,10 +408,10 @@
   <Text Key="Hide_Song_Covers">노래 커버 숨기기</Text>
   <Text Key="Check_For_Updates_At_Startup">시작할 때 업데이트 확인</Text>
   <Text Key="Check_For_Updates_Periodically">정기적으로 업데이트 확인</Text>
-  <Text Key="Refresh_Collection_Now">Refresh the collection now</Text>
-  <Text Key="Album_Covers">Album covers</Text>
-  <Text Key="Reload_All_Covers">Reload all covers</Text>
-  <Text Key="Reload_All_Covers_Description">Reload covers for all albums, including those that already have a cover.</Text>
-  <Text Key="Reload_Missing_Covers">Reload missing covers</Text>
-  <Text Key="Reload_Missing_Covers_Description">Reload covers only for albums that have no cover yet</Text>
+  <Text Key="Refresh_Collection_Now">지금 컬렉션 새로 고침</Text>
+  <Text Key="Album_Covers">앨범 커버</Text>
+  <Text Key="Reload_All_Covers">모든 커버 다시 불러오기</Text>
+  <Text Key="Reload_All_Covers_Description">이미 커버가 있는 앨범을 포함한 모든 앨범의 커버를 다시 불러옵니다.</Text>
+  <Text Key="Reload_Missing_Covers">없는 커버 다시 불러오기</Text>
+  <Text Key="Reload_Missing_Covers_Description">아직 커버가 없는 앨범의 커버만 다시 불러옵니다.</Text>
 </Language>
